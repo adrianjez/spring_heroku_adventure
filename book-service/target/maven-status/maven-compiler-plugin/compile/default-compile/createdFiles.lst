@@ -1,0 +1,3 @@
+com/example/spring/rest/domain/Book.class
+com/example/spring/rest/App.class
+com/example/spring/rest/repositories/BookRepository.class
